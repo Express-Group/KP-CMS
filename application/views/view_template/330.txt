@@ -1,0 +1,812 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+  <link rel="alternate" href="http://www.newindianexpress.com/niecpan/template_designer/save_xml_template" hreflang="en"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <!-- for-mobile-apps -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="title" content="Newsletter-sub" />
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="news_keywords" content="">
+  <meta name="msvalidate.01" content="E3846DEF0DE4D18E294A6521B2CEBBD2" />
+  <link rel="canonical" href="http://www.newindianexpress.com/Newsletter/Newsletter-sub" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Newsletter-sub"/>
+  <meta property="og:image" content=""/>
+  <meta property="og:site_name" content="The New Indian Express"/>
+  <meta property="og:description" content=""/>
+  <meta name="twitter:site" content="@NewIndianXpress" />
+  <meta name="twitter:title" content="Newsletter-sub" />
+  <meta name="twitter:description" content="" />
+  <meta name="twitter:image" content="" />
+  <meta name="robots" content="INDEX, FOLLOW">
+      <title>Newsletter-sub- The New Indian Express </title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+  <link rel="shortcut icon" href="http://images.newindianexpress.com/images/FrontEnd/images/favicon.ico" type="image/x-icon" />
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="http://images.newindianexpress.com/css/FrontEnd/css/combine_style.css" type="text/css">
+
+  <link rel="dns-prefetch" href="//d3.zedo.com/jsc/d3/fo.js" />
+  <link rel="dns-prefetch" href="http://cricket.sportzdeck.stats.com/v3/widgets/newindianexpress-othermatches.html" />
+  <link rel="dns-prefetch" href="//widget.crowdynews.com/NewIndianExpress_news.js" /> 
+  
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  <!--<script src="http://images.newindianexpress.com/js/FrontEnd/js/jquery.lazyloadxt.js"></script>-->
+  <!--<script src="http://images.newindianexpress.com/js/FrontEnd/js/bootstrap.min.js" type="text/javascript"></script>-->
+  <!--<script src="http://images.newindianexpress.com/js/FrontEnd/js/slick.js" type="text/javascript"></script>
+  <script src="http://images.newindianexpress.com/js/FrontEnd/js/slick-custom.js" type="text/javascript"></script>-->
+  <!--<script src="http://images.newindianexpress.com/js/FrontEnd/js/easyResponsiveTabs.js" type="text/javascript"></script>-->
+  <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ if (window.scrollY == 0) window.scrollTo(0,1); }; </script>
+  </head>
+  <body >
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2311935-30', 'auto');
+ga('send', 'pageview');
+</script>
+<section class="section-header">
+<header class="container HeaderContainer">
+
+	<div class="row"><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="widget-container widget-container-5">
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-bottom-10">
+    <div class="ad_script_3542" id="ad_script_3542"  style="">
+                      </div>
+  </div>
+</div>
+<script type="text/javascript">
+  // jQuery used as an example of delaying until load.
+  $(function() {
+  setTimeout(function(){
+  var adscript = '';
+    postscribe('#ad_script_3542', "<script data-cfasync=\"false\" type=\"text\/javascript\">(function(w, d) { var s = d.createElement('script'); s.src = '\/\/delivery.adrecover.com\/14640\/adRecover.js'; s.type = 'text\/javascript'; s.async = true; (d.getElementsByTagName('head')[0] || d.getElementsByTagName('body')[0]).appendChild(s); })(window, document);<\/script>", {
+      done: function() {
+        //console.info('Dblclick script has been delivered.');
+      }
+    });
+	}, 3000);
+  });
+</script></div></div><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="widget-container widget-container-5">
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-bottom-10">
+    <div class="ad_script_3541" id="ad_script_3541"  style="">
+                      </div>
+  </div>
+</div>
+<script type="text/javascript">
+  // jQuery used as an example of delaying until load.
+  $(function() {
+  setTimeout(function(){
+  var adscript = '';
+    postscribe('#ad_script_3541', "<!-- Javascript tag: -->\n<!-- begin ZEDO for channel:  NIE_sect_page pusher , publisher: newindianexpress.com , Ad Dimension: Pagepusher_1x1 - 1 x 1 -->\n<script language=\"JavaScript\">\nvar zflag_nid=\"791\"; var zflag_cid=\"799\"; var zflag_sid=\"10\"; var zflag_width=\"1\"; var zflag_height=\"1\"; var zflag_sz=\"35\"; \n<\/script>\n<script language=\"JavaScript\" src=\"http:\/\/d3.zedo.com\/jsc\/d3\/fo.js\"><\/script>\n<!-- end ZEDO for channel:  NIE_sect_page pusher , publisher: newindianexpress.com , Ad Dimension: Pagepusher_1x1 - 1 x 1 -->", {
+      done: function() {
+        //console.info('Dblclick script has been delivered.');
+      }
+    });
+	}, 3000);
+  });
+</script></div></div><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="widget-container widget-container-123">
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-bottom-10">
+    <div class="ad_script_3540" id="ad_script_3540"  style="">
+     <!-- Javascript tag  -->
+<!-- begin ZEDO for channel:  NIE_Sect_slider , publisher: newindianexpress.com , Ad Dimension: Slider 1x1 - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="791"; var zflag_cid="762"; var zflag_sid="10"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="94"; 
+</script>
+<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+<!-- end ZEDO for channel:  NIE_Sect_slider , publisher: newindianexpress.com , Ad Dimension: Slider 1x1 - 1 x 1 -->    </div>
+  </div>
+</div></div></div></div><div class="row"><div class=" col-lg-9 col-md-9 col-sm-9 col-xs-12  "><div class="widget-container widget-container-123">
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-bottom-10">
+    <div class="ad_script_2722" id="ad_script_2722"  style="">
+     <!-- Javascript tag: -->
+<!-- begin ZEDO for channel:  NIE_Section_728x90 , publisher: Newindianexpress , Ad Dimension: Super Banner - 728 x 90 -->
+<script language="JavaScript">
+var zflag_nid="791"; var zflag_cid="786"; var zflag_sid="10"; var zflag_width="728"; var zflag_height="90"; var zflag_msize="360x640:42,1366x768:14"; 
+</script>
+<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+<!-- end ZEDO for channel:  NIE_Section_728x90 , publisher: Newindianexpress , Ad Dimension: Super Banner - 728 x 90 -->    </div>
+  </div>
+</div></div></div><div class=" col-lg-3 col-md-3 col-sm-3 col-xs-12  "><div class="widget-container widget-container-123">
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-bottom-10">
+    <div class="ad_script_2989" id="ad_script_2989"  style="">
+     <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/3167926/NIE_200x90_rev1', [200, 90], 'div-gpt-ad-1492152851498-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<!-- /3167926/NIE_200x90_rev1 -->
+<div id='div-gpt-ad-1492152851498-0' style='height:90px; width:200px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1492152851498-0'); });
+</script>
+</div>    </div>
+  </div>
+</div></div></div></div><div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="widget-container widget-container-38"><div class="row">
+<script src="http://images.newindianexpress.com/js/FrontEnd/js/highcharts.js"></script>
+<div class="MobileInput">  <form class="" action="http://www.newindianexpress.com/topic"  name="SimpleSearchForm" id="mobileSearchForm" method="get" role="form">
+<input type="text" placeholder="Search..." name="search_term" id="mobile_srch_term" value=""/> <a href="javascript:void(0);" id="mobile_search"><img src="http://images.newindianexpress.com/images/FrontEnd/images/search-mob.png" /></a></form></div>
+<div class="col-lg-3 col-md-3 col-sm-2 col-xs-3 share-padd-right-0">
+<div class="social_icons SocialCenter mobile-share"><span> <a class="android" href="https://play.google.com/store/apps/details?id=com.newindianexpress.news" target="_blank"><i class="fa fa-android" aria-hidden="true"></i></a> <a class="apple" href="https://itunes.apple.com/in/app/new-indian-express-official/id968640811?mt=8" target="_blank" ><i class="fa fa-apple" aria-hidden="true"></i></a></span> <a class="fb" href="https://www.facebook.com/thenewindianxpress" target="_blank"><i class="fa fa-facebook"></i></a> <a class="google" href="https://plus.google.com/107417132035811835892/" target="_blank"><i class="fa fa-google-plus"></i></a> <a class="twit" href="https://twitter.com/NewIndianXpress" target="_blank"><i class="fa fa-twitter"></i></a><!--<a class="pinterest" href="http://www.pinterest.com/newindianexpres" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+          <a class="instagram" href="https://instagram.com/newindianexpress/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>--> <a class="rss" href="http://www.newindianexpress.com/rss/" target="_blank"><i class="fa fa-rss"></i></a> </div>
+            <ul class="MobileNav">
+            <li class="MobileShare dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"><span><i class="fa fa-share-alt" aria-hidden="true"></i><i class="fa fa-caret-down" aria-hidden="true"></i></span></a><ul class="dropdown-menu">
+          <li><a href="https://www.facebook.com/thenewindianxpress" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+          <li><a href="https://plus.google.com/107417132035811835892/" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+          <li><a href="https://twitter.com/NewIndianXpress" target="_blank"><i class="fa fa-twitter"></i></a></li>
+          <!--<li><a href="http://www.pinterest.com/newindianexpres" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a></li>
+          <li><a href="https://instagram.com/newindianexpress/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>-->  
+          <li><a href="http://www.newindianexpress.com/rss/" target="_blank"><i class="fa fa-rss"></i></i></a></li>
+          
+        </ul></li>
+            </ul>
+</div>
+  <div class="col-lg-6 col-md-6 col-sm-7 col-xs-6">
+    <div class="main_logo">
+      <a href="http://www.newindianexpress.com/">
+<img src="http://images.newindianexpress.com/images/FrontEnd/images/NIE-logo21.jpg"></a><!--<div class="loc" id="current_time">
+				<span>Tuesday, April, 18, 2017 &nbsp;&nbsp;01:05:26 PM </span>      </div>-->
+       </div>
+  </div>
+ <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 search-padd-left-0">
+    <div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+      <ul class="MobileNav">
+                                      <li>
+                  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button></li>                   <li class="MobileSearch"><a class="SearchHide" href="javascript:void(0);"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                   
+                  </ul>
+       <div class="large-screen-search">
+        <div class="search1">
+          <form class="navbar-form formb" action="http://www.newindianexpress.com/topic"  name="SimpleSearchForm" id="SimpleSearchForm" method="get" role="form">
+            <div class="input-group">
+              <input type="text" class="form-control tbox" placeholder="Search" name="search_term" id="srch-term" value="">
+              <div class="input-group-btn">
+                <input type="hidden" class="form-control tbox"  name="home_search" value="H" id="home_search">
+                <button class="btn btn-default btn-bac" id="search-submit" type="submit"><i class="fa fa-search"></i></button>
+              </div>
+            </div>
+          </form>
+          <label id="error_throw"></label>
+        </div>
+        
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div><div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="widget-container widget-container-30">
+<div class="row">
+  <div class="col-lg-12">
+    <div class="navbar navbar-inverse navbar-fixed-top main-menu menu" role="navigation" style="margin-bottom:0px; position:relative; color:#fff;">
+    <div class="navbar-header">
+            </div>
+      <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav menus">
+                    <li class="index_hide "><a href="http://www.newindianexpress.com/"><i class="fa fa-home"></i></a></li>
+                    <li class="StatesHover" id="tab170"><a class="MenuItem"  id="maintabs-170"  onmouseover="show_main_menu('170', 'main')"  href="http://www.newindianexpress.com/nation">Nation</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-170">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab171"><a class="MenuItem"  id="maintabs-171"  onmouseover="show_main_menu('171', 'main')"  href="http://www.newindianexpress.com/world">World</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-171">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab172"><a class="MenuItem"  id="maintabs-172"  onmouseover="show_main_menu('172', 'main')"  href="http://www.newindianexpress.com/states">States</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-172">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab180"><a class="MenuItem"  id="maintabs-180"  onmouseover="show_main_menu('180', 'main')"  href="http://www.newindianexpress.com/cities">Cities</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-180">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab186"><a class="MenuItem"  id="maintabs-186"  onmouseover="show_main_menu('186', 'main')"  href="http://www.newindianexpress.com/business">Business</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-186">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="CitiesHover" id="tab187"><a class="MenuItem"  id="maintabs-187"  onmouseover="show_main_menu('284','187')"   href="http://www.newindianexpress.com/sport">Sport</a>
+                                    <div class="MultiCities drop_menu" id="tabs187">
+              <ul class="MultiCitiesList">
+                                <li class="active" data-target="#tabs-284"><a href="http://www.newindianexpress.com/sport/ipl" id="subtabs-284" onmouseover="show_main_menu('284','')" data-id="284" >IPL<i class="fa fa-chevron-right"></i></a></li>
+                              </ul>
+                            <div class="MultiCitiesContents tab-content">
+                                <div id="tabs-284" class="MultiCitiesCont tab-pane active">
+                  <!--  Sub tabs menu content appear here -->
+                </div>
+                              </div>
+                          </div>
+                      </li>
+                    <li class="StatesHover" id="tab193"><a class="MenuItem"  id="maintabs-193"  onmouseover="show_main_menu('193', 'main')"  href="http://www.newindianexpress.com/entertainment">Entertainment</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-193">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab200"><a class="MenuItem"  id="maintabs-200"  onmouseover="show_main_menu('200', 'main')"  href="http://www.newindianexpress.com/galleries">Galleries</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-200">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab205"><a class="MenuItem"  id="maintabs-205"  onmouseover="show_main_menu('205', 'main')"  href="http://www.newindianexpress.com/videos">Videos</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-205">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab211"><a class="MenuItem"  id="maintabs-211"  onmouseover="show_main_menu('211', 'main')"  href="http://www.newindianexpress.com/lifestyle">Life Style</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-211">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab339"><a class="MenuItem"  id="maintabs-339"  onmouseover="show_main_menu('339', 'main')"  href="http://www.newindianexpress.com/Specials">Specials</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-339">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="StatesHover" id="tab337"><a class="MenuItem"  id="maintabs-337"  onmouseover="show_main_menu('337', 'main')"  href="http://www.newindianexpress.com/Opinions">Opinions</a>
+                                    <div class="MultiStatesContents MultiCitiesCont" id="maintabs_content-337">
+            <!--  Main Menu content appear here -->
+            </div>
+                      </li>
+                    <li class="AllSectionHover" id="AllSectionHoverId"><a class="MenuItem" href="javascript:void(0);">All Sections &nbsp;<i class="fa fa-chevron-down"></i></a>
+            <div class="MultiSection">
+              <div class="MultiSectionList"> <a class="AllTopic" href="http://www.newindianexpress.com/states">States</a> <a class="AllList" href="http://www.newindianexpress.com/states/tamil-nadu">Tamil Nadu</a> <a class="AllList" href="http://www.newindianexpress.com/states/kerala">Kerala</a> <a class="AllList" href="http://www.newindianexpress.com/states/karnataka">Karnataka</a> <a class="AllList" href="http://www.newindianexpress.com/states/andhra-pradesh">Andhra Pradesh</a> <a class="AllList" href="http://www.newindianexpress.com/states/telangana">Telangana</a> <a class="AllList" href="http://www.newindianexpress.com/states/odisha">Odisha</a> </div>
+              <div class="MultiSectionList" style="width: 15%;"> <a class="AllTopic" href="http://www.newindianexpress.com/cities">Cities</a> <a class="AllList" href="http://www.newindianexpress.com/cities/chennai">Chennai</a> <a class="AllList" href="http://www.newindianexpress.com/cities/delhi">Delhi</a><a class="AllList" href="http://www.newindianexpress.com/cities/bengaluru">Bengaluru</a> <a class="AllList" href="http://www.newindianexpress.com/cities/hyderabad">Hyderabad</a> <a class="AllList" href="http://www.newindianexpress.com/cities/kochi">Kochi</a> <a class="AllList" href="http://www.newindianexpress.com/cities/thiruvananthapuram">Thiruvananthapuram</a> </div>
+              <div class="MultiSectionList"> <a class="AllTopic" href="http://www.newindianexpress.com/nation">Nation</a> <a class="AllTopic" href="http://www.newindianexpress.com/world">World</a> <a class="AllTopic" href="http://www.newindianexpress.com/business">Business</a> <a class="AllTopic" href="http://www.newindianexpress.com/sport">Sport</a> <a class="AllList" href="http://www.newindianexpress.com/sport/cricket">Cricket</a> <a class="AllList" href="http://www.newindianexpress.com/sport/football">Football</a> <a class="AllList" href="http://www.newindianexpress.com/sport/tennis">Tennis</a> <a class="AllList" href="http://www.newindianexpress.com/sport/other">Other</a> <a class="AllTopic" href="http://www.newindianexpress.com/education">Education</a> <a class="AllTopic" href="http://www.newindianexpress.com/socialnews">Social News</a> </div>
+              <div class="MultiSectionList"> <a class="AllTopic" href="http://www.newindianexpress.com/entertainment">Entertainment</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/english">English</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/hindi">Hindi</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/kannada">Kannada</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/malayalam">Malayalam</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/tamil">Tamil</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/telugu">Telugu</a> <a class="AllList" href="http://www.newindianexpress.com/entertainment/review">Review</a> <a class="AllTopic" href="http://www.newindianexpress.com/galleries">Galleries</a> <a class="AllTopic" href="http://www.newindianexpress.com/videos">Videos</a> </div>
+              <div class="MultiSectionList"> <a class="AllTopic" href="http://www.newindianexpress.com/auto">Auto</a> <a class="AllTopic" href="http://www.newindianexpress.com/lifestyle">Life style</a> <a class="AllList" href="http://www.newindianexpress.com/lifestyle/tech">Tech</a> <a class="AllList" href="http://www.newindianexpress.com/lifestyle/health">Health</a> <a class="AllList" href="http://www.newindianexpress.com/lifestyle/travel">Travel</a> <a class="AllList" href="http://www.newindianexpress.com/lifestyle/food">Food</a> <a class="AllList" href="http://www.newindianexpress.com/lifestyle/books">Books</a> <a class="AllList" href="http://www.newindianexpress.com/lifestyle/spirituality">Spirituality</a> </div>
+              <div class="MultiSectionList" style="width: 16%;"> <a class="AllTopic" href="http://www.newindianexpress.com/opinions">Opinions</a> <a class="AllTopic" href="http://www.newindianexpress.com/opinions/editorials">Editorials</a> <a class="AllTopic" href="http://www.newindianexpress.com/prabhu-chawla/ask-prabhu">Ask Prabhu</a> <a class="AllTopic" href="http://www.newindianexpress.com/opinions/columns">Columns</a> <a class="AllList" href="http://www.newindianexpress.com/prabhu-chawla/column">Prabhu Chawla</a> <a class="AllList" href="http://www.newindianexpress.com/opinions/columns/t-j-s-george">T J S George</a> <a class="AllList" href="http://www.newindianexpress.com/opinions/columns/s-gurumurthy">S Gurumurthy</a> <a class="AllList" href="http://www.newindianexpress.com/opinions/columns/ravi-shankar">Ravi Shankar</a> <a class="AllList" href="http://www.newindianexpress.com/opinions/columns/shankkar-aiyar">Shankkar Aiyar</a> <a class="AllList" href="http://www.newindianexpress.com/opinions/columns/shampa-dhar-kamath">Shampa Dhar-Kamath</a> <a class="AllList" href="http://www.newindianexpress.com/opinions/columns/karamatullah-k-ghori">Karamatullah K Ghori</a> </div>
+              <div class="MultiSectionList" style="width: 18%;"> <a class="AllTopic" href="http://www.edexlive.com/" target="_blank">Edex</a> <a class="AllTopic" href="http://www.indulgexpress.com/" target="_blank">Indulge </a> <a class="AllTopic" href="http://www.newindianexpress.com/magazine">Magazine</a> <a class="AllTopic" href="http://www.newindianexpress.com/thesundaystandard">The Sunday Standard</a> <a class="AllTopic" href="http://epaper.newindianexpress.com" target="_blank">E-paper </a> </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+$(document).ready(function(){
+        <!--Dropdown Menu--> 
+	$( "#tabs169 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs170 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs171 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs172 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs180 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs186 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs187 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs193 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs200 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs205 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs211 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs339 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs337 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs192 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs210 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs230 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs231 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs232 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs233 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs234 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs244 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs298 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs299 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs300 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs301 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs302 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs304 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs317 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs319 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs325 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs329 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs338 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs331 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs332 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs335 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs349 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs352 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs356 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs359 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		       <!--Dropdown Menu--> 
+	$( "#tabs363 li" ).hover( function(){
+      $(this).tab('show'); 
+    });
+		  		  setTimeout(function(){sessionStorage.clear(); }, 240000);  //clear Session Storage every 4 mins
+});
+//$('.menus li:nth-last-child(2)').addClass('jumbo_full');
+//$('.menus li:nth-last-child(3)').addClass('jumbo_full');
+
+	   function show_main_menu(menuId, type){
+		   var storage_name = "menu_content_"+menuId;
+		   if (sessionStorage.getItem(storage_name)) { 	// Code for localStorage/sessionStorage.
+		 var sessiondata = sessionStorage.getItem(storage_name);
+			if(type=='main'){
+			   $('#maintabs_content-'+menuId).html(sessiondata);
+			   $('#maintabs-'+menuId).removeAttr('onmouseover');
+			   }else{
+				$('#tabs-'+menuId).html(sessiondata);
+			   $('#maintabs-'+type).removeAttr('onmouseover');
+			   $('#subtabs-'+menuId).removeAttr('data-id');
+				$('#subtabs-'+menuId).removeAttr('onmouseover');
+			   }
+			} else { // Sorry! No Web Storage support..
+		 $.ajax({
+			url			: 'http://www.newindianexpress.com/user/commonwidget/get_menu_content',
+			method		: 'post',
+			data		: { menuid: menuId, mode: 'live', 'rendermode' : 'manual', is_home : 'n', param : '', menu_type : type},
+			beforeSend	: function() {				
+				console.log(menuId);
+				if(type=='main'){
+				  document.getElementById('maintabs_content-'+menuId).innerHTML = '<figure style="text-align: center;"><img src="http://www.newindianexpress.com/images/FrontEnd/images/menu-loader.gif" style="width: 70px;"></figure>';
+				   }else{
+				   document.getElementById('tabs-'+menuId).innerHTML = '<figure style="text-align: center;"><img src="http://www.newindianexpress.com/images/FrontEnd/images/menu-loader.gif" style="width: 70px;position: absolute;top: 43%;left: 57%;"></figure>';
+				   }
+			},
+			success		: function(result){ 
+			       if(type=='main'){
+				   $('#maintabs_content-'+menuId).html(result);
+				   $('#maintabs-'+menuId).removeAttr('onmouseover');
+				   }else{
+				    $('#tabs-'+menuId).html(result);
+				   $('#maintabs-'+type).removeAttr('onmouseover');
+				   $('#subtabs-'+menuId).removeAttr('data-id');
+				    $('#subtabs-'+menuId).removeAttr('onmouseover');
+				   }
+				   sessionStorage.setItem('menu_content_'+menuId, result);
+                   console.clear();
+				   }			
+		});
+		}
+	   }
+</script></div></div></div><div class="row"><div class=" col-lg-8 col-md-8 col-sm-8 col-xs-12  "><div class="widget-container widget-container-48"><div id="bcrum_section">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="bcrums"> <a href=http://www.newindianexpress.com/ >Home</a> <i class="fa fa-angle-right"></i> <a href=http://www.newindianexpress.com/Newsletter >Newsletter</a> <i class="fa fa-angle-right"></i> <a href=http://www.newindianexpress.com/Newsletter/Newsletter-sub >Newsletter-sub</a></div>
+</div>
+</div>
+</div></div></div><div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  "><div class="widget-container widget-container-120"><div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+    <div class="static_menu2565" id="static_menu2565">
+                </div>
+  </div>
+</div>
+</div></div></div><div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "></div></div>
+</header>
+</section><section class="section-content"><div class="container SectionContainer"><div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="widget-container widget-container-114"><script type="application/x-javascript"> 
+addEventListener("load", function(){ 
+setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } 
+</script>
+<link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<link href='http://www.newindianexpress.com//css/FrontEnd/css/newsletter.css' rel='stylesheet' type='text/css'>
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="moduleSeperatorLineDark">
+<tbody>
+<tr>
+<td class="color-white" valign="top" bgcolor="#434952" align="center" >
+
+ <h3 class="topic"> </h3> </td>
+</tr>
+
+<tr>
+<td valign="top" align="center" bgcolor="#434952">
+<table width="280" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="eraseForMobile2">
+<tbody><tr>
+<td valign="middle" height="10" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="table600">
+<tbody><tr>
+<td valign="middle" height="30" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table600">
+<tbody><tr>
+<td valign="top" bgcolor="#434952">
+<table align="left" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" style="border:1px solid #434952;">
+<tbody><tr>
+<td valign="top" bgcolor="#434952">
+<table width="326" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table280">    
+<tbody><tr>																																																					
+<td valign="top" align="center" height="10" bgcolor="#434952" class="sectionsHeaderDarkTD">Chidambaram accuses ED of making 'wild allegations' against his son Karti</td>
+
+</tr>
+</tbody></table>
+</td>
+<td valign="top" align="center" bgcolor="#434952">
+<table align="center" width="20" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="eraseForMobile">
+<tbody><tr>
+<td valign="top" align="center" height="10" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="230" align="right" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table280" style="border:1px solid #434952;">
+<tbody><tr>
+<td valign="top" align="center" bgcolor="#434952">
+<table width="230" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table280"> 
+<tbody><tr>
+<td valign="top" align="right" height="10" bgcolor="#434952" class="table280DarkButton2"><a href="http://www.newindianexpress.com/Newsletter/Newsletter-sub" target="_blank" class="buttonsAndImagesLink"><img src="http://www.newindianexpress.com//images/FrontEnd/images/button_lightBG.jpg" style="display:block;" alt="IMG" border="0" align="top" hspace="0" vspace="0" width="230" height="50"></a></td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table600">
+<tbody><tr>
+<td valign="top" align="center" height="25" bgcolor="#434952" style="font-size:0; line-height:0;" class="table600Height">&nbsp;</td>
+</tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="image600">
+<tbody><tr>
+
+<td valign="top" align="center" bgcolor="#434952" class="pictureAlternativeTextTD"><a href="http://www.newindianexpress.com/nation/2017/apr/18/chidambaram-accuses-ed-of-making-wild-allegations-against-his-son-karti-1594895.html" target="_blank" class="buttonsAndImagesLink"><img src="http://images.newindianexpress.com/uploads/user/imagelibrary/2017/4/18/w600X390/P_ChidambaramApr1_EPS.jpg" style="display:block;" alt="Former Home Minister P. Chidambaram (Vinod Kumar T | EPS)" border="0" align="top" hspace="0" vspace="0" width="600" height="270"></a></td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table600">
+<tbody><tr>
+<td valign="middle" height="15" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+<tr>																																																					
+<td valign="middle" align="center" bgcolor="#434952" height="10" class="sectionRegularInfoTextDarkTD">A show cause notice has been issued by the ED to Karti Chidambaram and a firm purportedly linked to him for alleged FEMA violations of Rs 45 crore.    <a href="http://www.newindianexpress.com/nation/2017/apr/18/chidambaram-accuses-ed-of-making-wild-allegations-against-his-son-karti-1594895.html" target="_blank" class="sectionRegularInfoTextDarkTDLink">Readmore</a></td>
+
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="table600">
+<tbody><tr>
+<td valign="middle" height="25" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="280" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="eraseForMobile2">
+<tbody><tr>
+<td valign="middle" height="10" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="moduleSeperatorLineDark">
+<tbody>
+<tr>
+<td class="color-white" valign="top" bgcolor="#434952" align="center" >
+
+ <h3 class="topic"> </h3> </td>
+</tr>
+
+<tr>
+<td valign="top" align="center" bgcolor="#434952">
+<table width="280" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="eraseForMobile2">
+<tbody><tr>
+<td valign="middle" height="10" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="table600">
+<tbody><tr>
+<td valign="middle" height="30" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table600">
+<tbody><tr>
+<td valign="top" bgcolor="#434952">
+<table align="left" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" style="border:1px solid #434952;">
+<tbody><tr>
+<td valign="top" bgcolor="#434952">
+<table width="326" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table280">    
+<tbody><tr>																																																					
+<td valign="top" align="center" height="10" bgcolor="#434952" class="sectionsHeaderDarkTD">Vijay Antony flag bearer for out-of-the-box scripts: Kiruthiga</td>
+
+</tr>
+</tbody></table>
+</td>
+<td valign="top" align="center" bgcolor="#434952">
+<table align="center" width="20" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="eraseForMobile">
+<tbody><tr>
+<td valign="top" align="center" height="10" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="230" align="right" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table280" style="border:1px solid #434952;">
+<tbody><tr>
+<td valign="top" align="center" bgcolor="#434952">
+<table width="230" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table280"> 
+<tbody><tr>
+<td valign="top" align="right" height="10" bgcolor="#434952" class="table280DarkButton2"><a href="http://www.newindianexpress.com/Newsletter/Newsletter-sub" target="_blank" class="buttonsAndImagesLink"><img src="http://www.newindianexpress.com//images/FrontEnd/images/button_lightBG.jpg" style="display:block;" alt="IMG" border="0" align="top" hspace="0" vspace="0" width="230" height="50"></a></td>
+
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table600">
+<tbody><tr>
+<td valign="top" align="center" height="25" bgcolor="#434952" style="font-size:0; line-height:0;" class="table600Height">&nbsp;</td>
+</tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="image600">
+<tbody><tr>
+
+<td valign="top" align="center" bgcolor="#434952" class="pictureAlternativeTextTD"><a href="http://www.newindianexpress.com/entertainment/tamil/2017/apr/18/vijay-antony-flag-bearer-for-out-of-the-box-scripts-kiruthiga-1594894.html" target="_blank" class="buttonsAndImagesLink"><img src="http://images.newindianexpress.com/uploads/user/imagelibrary/2017/4/18/w600X390/0106-VijayAntony-E-L.jpg" style="display:block;" alt="Vijay Antony (Express Photo)." border="0" align="top" hspace="0" vspace="0" width="600" height="270"></a></td>
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" bgcolor="#434952" border="0" class="table600">
+<tbody><tr>
+<td valign="middle" height="15" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+<tr>																																																					
+<td valign="middle" align="center" bgcolor="#434952" height="10" class="sectionRegularInfoTextDarkTD">Filmmaker Kiruthiga Udhayanidhi is thrilled to be teaming up with actor Vijay Antony for the upcoming Tamil film "Kaali". <a href="http://www.newindianexpress.com/entertainment/tamil/2017/apr/18/vijay-antony-flag-bearer-for-out-of-the-box-scripts-kiruthiga-1594894.html" target="_blank" class="sectionRegularInfoTextDarkTDLink">Readmore</a></td>
+
+</tr>
+</tbody></table>
+<table width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="table600">
+<tbody><tr>
+<td valign="middle" height="25" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+<table width="280" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#434952" class="eraseForMobile2">
+<tbody><tr>
+<td valign="middle" height="10" align="center" bgcolor="#434952" style="font-size:0; line-height:0;">&nbsp;</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<div class="row"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 election-result"></div></div></div></div></div></div></div></div></section><section class="section-footer">
+<footer class="container FooterContainer">
+	<div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="widget-container widget-container-5">
+<div class="row">
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-bottom-10">
+    <div class="ad_script_2749" id="ad_script_2749"  style="">
+                      </div>
+  </div>
+</div>
+<script type="text/javascript">
+  // jQuery used as an example of delaying until load.
+  $(function() {
+  setTimeout(function(){
+  var adscript = '';
+    postscribe('#ad_script_2749', "<!-- Javascript tag: -->\n<!-- begin ZEDO for channel:  NIE_Sect_footer , publisher: newindianexpress.com , Ad Dimension: stay on footer - 1 x 1 -->\n<script language=\"JavaScript\">\nvar zflag_nid=\"791\"; var zflag_cid=\"764\"; var zflag_sid=\"10\"; var zflag_width=\"1\"; var zflag_height=\"1\"; var zflag_sz=\"87\"; \n<\/script>\n<script language=\"JavaScript\" src=\"http:\/\/d3.zedo.com\/jsc\/d3\/fo.js\"><\/script>\n<!-- end ZEDO for channel:  NIE_Sect_footer , publisher: newindianexpress.com , Ad Dimension: stay on footer - 1 x 1 -->", {
+      done: function() {
+        //console.info('Dblclick script has been delivered.');
+      }
+    });
+	}, 3000);
+  });
+</script></div></div></div><div class="row"><div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12  "><div class="widget-container widget-container-34"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer1">
+  <!--<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <div class="news"> <a href="javascript:void(0)" class="scrollToTop"><i class="fa fa-arrow-up" aria-hidden="true"></i></a>
+      <h3 class="foot_head">NEWS LETTER</h3>
+      <div class="newsbox">
+        <form class="navbar-form news_form" id="newsletter_form" name="newsletter_form" role="search" action="http://www.newindianexpress.com/user/common_widget/subscribe_newsletter">
+          <div class="input-group">
+            <input type="text" class="form-control ntb"  placeholder="Enter email for newsletter" name="email_newsletter" id="email-newsletter">
+            <div class="input-group-btn">
+              <button class="btn btn-default btn-back" id="submit_newsletter" type="button"><i class="fa fa-chevron-right"></i></button>
+            </div>
+          </div>
+        </form>
+        <span id="news_error_throw"></span> </div>
+    </div>
+  </div>-->
+  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="follow">
+      <h3 class="foot_head">FOLLOW US</h3>
+      <div class="footer_social"> <a class="fb" href="https://www.facebook.com/thenewindianxpress" target="_blank"><i class="fa fa-facebook"></i></a> <a class="google" href="https://plus.google.com/107417132035811835892/" target="_blank"><i class="fa fa-google-plus"></i></a> <a class="twit" href="https://twitter.com/NewIndianXpress"target="_blank"><i class="fa fa-twitter"></i></a> <a href="http://www.pinterest.com/newindianexpres" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a> <a href="https://instagram.com/newindianexpress/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a> <a class="rss" href="http://www.newindianexpress.com/rss/" target="_blank"><i class="fa fa-rss"></i></a> </div>
+    </div>
+  </div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 footer2bac">
+  <div class="footer2">
+    <p>Copyrights New Indian Express.2017</p>
+    
+    <p><a class="AllTopic" href="http://www.dinamani.com" target="_blank">Dinamani | </a> <a class="AllTopic" href="http://www.kannadaprabha.com" target="_blank">Kannada Prabha | </a>  <a class="AllTopic" href="http://www.samakalikamalayalam.com" target="_blank">Samakalika Malayalam | </a><a class="AllTopic" href="http://www.malayalamvaarika.com" target="_blank">Malayalam Vaarika  | </a>  <a class="AllTopic" href="http://www.indulgexpress.com" target="_blank">Indulgexpress  | </a>  <a class="AllTopic" href="http://www.edexlive.com" target="_blank">Edex Live   </a></p>
+	<p> <a class="AllTopic" href="http://www.newindianexpress.com/contact-us">Contact Us | </a> <a class="AllTopic" href="http://www.newindianexpress.com/about-us">About Us | </a> <a class="AllTopic" href="http://www.newindianexpress.com/careers">Careers | </a><a class="AllTopic" href="http://www.newindianexpress.com/privacy-policy">Privacy Policy | </a> <a class="AllTopic" href="http://www.newindianexpress.com/topic">Search | </a> <a class="AllTopic" href="http://www.newindianexpress.com/terms-of-use">Terms of Use | </a> <a class="AllTopic" href="http://www.newindianexpress.com/advertise-with-us">Advertise With Us </a></p>
+	<p> <a class="AllTopic" href="http://www.newindianexpress.com/">Home | </a> <a class="AllTopic" href="http://www.newindianexpress.com/nation">Nation | </a> <a class="AllTopic" href="http://www.newindianexpress.com/world">World | </a> <a class="AllTopic" href="http://www.newindianexpress.com/cities">Cities | </a> <a class="AllTopic" href="http://www.newindianexpress.com/business">Business | </a> <a class="AllTopic" href="http://www.newindianexpress.com/opinions/columns">Columns | </a> <a class="AllTopic" href="http://www.newindianexpress.com/entertainment">Entertainment | </a> <a class="AllTopic" href="http://www.newindianexpress.com/sport">Sport | </a> <a class="AllTopic" href="http://www.newindianexpress.com/magazine">Magazine | </a> <a class="AllTopic" href="http://www.newindianexpress.com/thesundaystandard">The Sunday Standard  </a></p>
+  </div>
+</div>
+<script>
+var $ = $.noConflict();
+$(document).ready(function( $ ){
+    scrollToTop.init( );
+});
+var scrollToTop =
+{
+    init: function(  ){
+        //Check to see if the window is top if not then display button
+        $(window).scroll(function(){
+            if ($(this).scrollTop() > 100) {
+                $('.scrollToTop').fadeIn();
+            } else {
+                $('.scrollToTop').fadeOut();
+            }
+        });
+        // Click event to scroll to top
+        $('.scrollToTop').click(function(){
+            $('html, body').animate({scrollTop : 0},800);
+            return false;
+        });
+    }
+};
+</script></div></div></div><div class="row"></div><div class="row"></div></footer>
+</section><script src="http://images.newindianexpress.com/js/FrontEnd/js/slider-custom-lazy.min.js" type="text/javascript"></script> 
+<script type="text/javascript">
+	  	  var Section_id = '330';
+	  var PSection_id = '329';
+	  var view_mode = 'live';
+		    var call_breadcrumb = 0;
+	   	    var call_otherstories = 0;
+	$(document).ready(function () {
+<!--replace slick preview as arrow-->
+	$('.slick-prev').addClass('fa fa-chevron-left');
+	$('.slick-next').addClass('fa fa-chevron-right');	
+	  
+    $('.menu').affix({
+	  offset: {
+		top: $('header').height()
+	  }
+    });	
+	$('.article_click').click(function(){localStorage.setItem("callback_section", window.location);});
+});
+</script>
+
+
+<script src="http://images.newindianexpress.com/js/FrontEnd/js/bootstrap-datepicker.js" type="text/javascript"></script>
+<script type="text/javascript">
+ var base_url = "http://www.newindianexpress.com/";
+ var css_url  = "http://images.newindianexpress.com/css/FrontEnd/";
+</script> 
+<script src="http://images.newindianexpress.com/js/FrontEnd/js/custom.js" type="text/javascript"></script>
+
+<script src="http://images.newindianexpress.com/js/FrontEnd/js/postscribe.min.js"></script>
+<!-- Start Advertisement Script --> 
+ 
+<!-- End Advertisement Script -->
+</body>
+</html>

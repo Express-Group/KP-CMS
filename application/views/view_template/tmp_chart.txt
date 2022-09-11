@@ -1,0 +1,1 @@
+[{"name":"Cong","value":"1114","color":"ED87FF"},{"name":"ADMK","value":"860","color":"FF1C20"},{"name":"DMK","value":"784","color":"0A50FF"},{"name":"BJP","value":"580","color":"FF14C4"}]
